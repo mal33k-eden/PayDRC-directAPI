@@ -13,7 +13,7 @@ The API requires you to pass a merchant key and a merchant secrete for every req
 You can get these keys once you have registered as merchant, on their merchant portal. 
 
 
-* [Merchant Portal](https://merchant.gofreshdev.space) : `https://merchant.gofreshdev.space`
+* [Merchant Portal](https://merchant.gofreshbakery.space) : `https://merchant.gofreshbakery.space`
 
 ## Base URL
 
@@ -37,6 +37,6 @@ Request header must be provided with the request.
 Endpoints for viewing and manipulating the Accounts that the Authenticated User
 has permissions to access.
 
-* [Credit](examples/credit.md) : `POST /v3/`
-* [Debit](examples/debit.md) : `POST /v3/`
+* [B2C-Credit](examples/credit.md) : `POST /v3/`
+* [C2B-Debit](examples/debit.md) : `POST /v3/`
 * [Verify](exampls/verify.md) : `POST /v3/` 

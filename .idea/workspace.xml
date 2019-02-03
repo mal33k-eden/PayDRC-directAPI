@@ -4,6 +4,9 @@
     <list default="true" id="175a2530-a939-403f-9146-7a6945ea393c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/credit.md" afterPath="$PROJECT_DIR$/examples/credit.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/debit.md" afterPath="$PROJECT_DIR$/examples/debit.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/verify.md" afterPath="$PROJECT_DIR$/examples/verify.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,12 +17,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="615">
-                <caret line="41" column="44" lean-forward="true" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="398">
+                <caret line="40" column="7" lean-forward="false" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -30,10 +33,15 @@
       <file leaf-file-name="credit.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/credit.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
+            <state split_layout="FIRST">
               <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
+                <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+                <folding>
+                  <marker date="1549209970000" expanded="true" signature="317:548" ph="{&quot;merchant_id&quot;: &quot;qwertyuioiuytrew&quot;...}" />
+                  <marker date="1549209970000" expanded="true" signature="690:1041" ph="{&quot;Status&quot;: &quot;Success&quot;...}" />
+                  <marker date="1549209970000" expanded="true" signature="695:1041" ph="{&quot;merchant_id&quot;: &quot;SwDjvAaQOKKj$fiY&quot;...}" />
+                  <marker date="1549209970000" expanded="true" signature="1103:1298" ph="{...}" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -45,21 +53,27 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
+                <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+                <folding>
+                  <marker date="1549210140000" expanded="true" signature="693:1037" ph="{&quot;merchant_id&quot;: &quot;qwertyuioiuytrew&quot;...}" />
+                  <marker date="1549210140000" expanded="true" signature="1099:1294" ph="{&quot;Status&quot;: &quot;Success&quot;...}" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="verify.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="verify.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/examples/verify.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
+                <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+                <folding>
+                  <marker date="1549210153000" expanded="true" signature="662:827" ph="{&quot;merchant_id&quot;: &quot;qwertyuioiuytrew&quot;...}" />
+                  <marker date="1549210153000" expanded="true" signature="889:1149" ph="{&quot;Status&quot;: &quot;Success&quot;...}" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -75,6 +89,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/examples/credit.md" />
+        <option value="$PROJECT_DIR$/examples/debit.md" />
+        <option value="$PROJECT_DIR$/examples/verify.md" />
       </list>
     </option>
   </component>
@@ -152,12 +169,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549202453707</updated>
-      <workItem from="1549202461120" duration="3123000" />
+      <workItem from="1549202461120" duration="5139000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3123000" />
+    <option name="totallyTimeSpent" value="5139000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -170,7 +187,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.67675376" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23796424" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -193,12 +210,28 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="398">
+            <caret line="40" column="7" lean-forward="false" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/examples/credit.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
+        <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
+            <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+            <folding>
+              <marker date="1549209970000" expanded="true" signature="317:548" ph="{&quot;merchant_id&quot;: &quot;qwertyuioiuytrew&quot;...}" />
+              <marker date="1549209970000" expanded="true" signature="690:1041" ph="{&quot;Status&quot;: &quot;Success&quot;...}" />
+              <marker date="1549209970000" expanded="true" signature="695:1041" ph="{&quot;merchant_id&quot;: &quot;SwDjvAaQOKKj$fiY&quot;...}" />
+              <marker date="1549209970000" expanded="true" signature="1103:1298" ph="{...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -208,8 +241,11 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
+            <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+            <folding>
+              <marker date="1549210140000" expanded="true" signature="693:1037" ph="{&quot;merchant_id&quot;: &quot;qwertyuioiuytrew&quot;...}" />
+              <marker date="1549210140000" expanded="true" signature="1099:1294" ph="{&quot;Status&quot;: &quot;Success&quot;...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -219,19 +255,11 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="615">
-            <caret line="41" column="44" lean-forward="true" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
-            <folding />
+            <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+            <folding>
+              <marker date="1549210153000" expanded="true" signature="662:827" ph="{&quot;merchant_id&quot;: &quot;qwertyuioiuytrew&quot;...}" />
+              <marker date="1549210153000" expanded="true" signature="889:1149" ph="{&quot;Status&quot;: &quot;Success&quot;...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
