@@ -1,4 +1,4 @@
-#PayDRC Direct API
+## PayDRC Direct API
 
 This document is intended to provide a guide for third parties who want to use the FreshPay's Direct API (PayDRC) platform for B2C & C2B transactional services.
 
@@ -37,6 +37,6 @@ Request header must be provided with the request.
 Endpoints for viewing and manipulating the Accounts that the Authenticated User
 has permissions to access.
 
-* [Credit](accounts/get.md) : `POST /v3/`
-* [Debit](accounts/post.md) : `POST /v3/`
-* [Verify](accounts/pk/get.md) : `POST /v3/` 
+* [Credit](examples/credit.md) : `POST /v3/`
+* [Debit](examples/debit.md) : `POST /v3/`
+* [Verify](exampls/verify.md) : `POST /v3/` 
